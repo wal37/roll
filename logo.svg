@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">RadicAI Logo</title>
+  <desc id="desc">RadicAI radiology AI logo with scan ring and neural signal mark.</desc>
+  <defs>
+    <linearGradient id="logoGradient" x1="9" y1="8" x2="60" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#25d2c2"/>
+      <stop offset="1" stop-color="#7db4ff"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#071620"/>
+  <circle cx="32" cy="32" r="18" fill="none" stroke="url(#logoGradient)" stroke-width="5"/>
+  <path d="M20 32h24M32 20v24" stroke="#a8fff4" stroke-width="3.8" stroke-linecap="round"/>
+  <circle cx="45" cy="19" r="5" fill="#25d2c2"/>
+  <path d="M42 22 35 29" stroke="#25d2c2" stroke-width="3" stroke-linecap="round"/>
+</svg>
